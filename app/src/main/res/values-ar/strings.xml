@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeLocalization</string>
+    <string name="change_language_from_settings">تغير اللغة من الاعدادات </string>
+    <string name="welcome">"اهلا بيك  "</string>
+</resources>
